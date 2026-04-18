@@ -67,8 +67,8 @@ Oracle Database
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisionovais&layout=compact&theme=tokyonight)
 
-- Statísticas podem sofrem divergências por conta de que 99% dos projetos estão privados, a maioria são projetos para setor público e alguns privados.
-- Em breve compartilharei projetos para contribuir com a comunidade.
+- As estatísticas podem apresentar divergências, considerando que 99% dos projetos são privados — majoritariamente voltados ao setor público, além de alguns projetos privados.
+- Em breve, disponibilizarei projetos para contribuir com a comunidade.
 
 ---
 
